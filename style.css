@@ -1,9 +1,18 @@
 .title h3 {
 	color: #009966 ;
 	font-size: 23px;
+	padding-left: 50px;
 }
 
 .nav ul {
 	color: #006699;
 	font-size: 19px;
+	padding-left: 50px;
+}
+
+.graph {
+	width: 90%;
+	height: 400px;
+	background-color: #ffff99;
+	margin-left: 50px;
 }
