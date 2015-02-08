@@ -23,7 +23,7 @@
     
     			while (data.length < totalPoints) {
     
-    				//y = Math.random()*100;
+    				y = Math.random()*100;
     
             spark.getDevice(coreId, function(err, device) {
               device.getVariable('temperature', function(err, a) {
